@@ -5,4 +5,4 @@ When user types a city and presses the button, it simply retrieves data about sp
 and displays it to the user or informs him with an error if city is not found on server.
 
 Screenshot: http://imgur.com/WrMhu6A
-![alt tag](http://imgur.com/WrMhu6A)
+![alt tag](https://raw.githubusercontent.com/mis94/WeatherScraper-Website/master/Weather-logo.jpg)
